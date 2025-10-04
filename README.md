@@ -1,5 +1,5 @@
 <p align="center"><img src="./icon/logo.png" width="66px"></p>
-<h1 align="center">UniAI</h1>
+<h1 align="center">ElixeIA</h1>
 <h3 align="center">To Unify AI Models!</h3>
 
 <p>
@@ -295,28 +295,4 @@ If you want to run unit tests for a specific model provider:
 yarn test OpenAI
 ```
 
-## Thanks
 
-[Institute of Intelligent Computing Technology, Suzhou, CAS](http://iict.ac.cn/)
-
-## Contributors
-
-[Youwei Huang](https://www.devil.ren)
-
-[Weilong Yu](https://github.com/mrkk1)
-
-## Who is using it
-
-|                        Project                         |                                          Brief introduction                                           |
-| :----------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-| [UniAI MaaS](https://github.com/uni-openai/uniai-maas) | UniAI is a unified API platform designed to simplify interaction with a variety of complex AI models. |
-|  [LeChat](https://github.com/CAS-IICT/lechat-uniapp)   |         Document analysis based on large language model, dialogue with WeChat Mini Programs.          |
-|         [LeChat Pro](https://lechat.cas-ll.cn)         |             Full-platform client based on UniAI, multi-model streaming dialogue platform.             |
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=devilyouwei/UniAI&type=Timeline)](https://star-history.com/#devilyouwei/UniAI&Timeline)
-
-## License
-
-[MIT](./LICENSE)
