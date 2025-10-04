@@ -84,18 +84,6 @@ Latest update: we have supported **Claude** latest models!
 - [MidJourney Proxy](https://github.com/novicezk/midjourney-proxy)
 - [Stability AI](https://platform.stability.ai/docs/getting-started)
 
-## Applications Developed on UniAI
-
-We have developed several sample applications using **uniai**:
-
-<div align=center>
-<img style="margin-right:20px" height=120 src="./icon/lechat-green.png">
-<img style="margin-right:20px" height=120 src="./icon/lechat-pro-qrcode.png">
-<img height=120 src="./icon/miniapp-qrcode.jpg">
-<br>
-<img width="100%" src="./icon/lechat-pro.png">
-</div>
-
 ## Install
 
 **Using yarn:**
@@ -295,4 +283,5 @@ If you want to run unit tests for a specific model provider:
 yarn test OpenAI
 ```
 
+...
 
